@@ -1,2 +1,4 @@
 # Tic-Tac-Toe
-It is a Tic Tac Toe game which is developed with the help of Swing framework of Java.
+This is a classic game which will help in developing chidren's cognitive skills.
+Technology used: Swing framework of Java.
+
